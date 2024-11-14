@@ -14,3 +14,13 @@ Bilibili online course:
 ### Sub-Guassian and Inequality part:
   - https://www.bilibili.com/video/BV1xh411p7vF?spm_id_from=333.788.videopod.sections&vd_source=f93a900f93f134bf44c9945d7d2d9c22 (Section2.1-2.3)
 
+### Optimazation part(selection,if you need to learn the basic and full thoery of Basic knowledge of convex problems, common methods of unconstrained optimization, constrained optimization theory and solving methods):
+  - https://www.bilibili.com/video/BV1m7411u72b/?spm_id_from=333.999.0.0&vd_source=f93a900f93f134bf44c9945d7d2d9c22
+
+### Non-parameter density estimation part:
+  - Kernal estimation: https://www.bilibili.com/video/BV1ir4y1h7Pc/?vd_source=f93a900f93f134bf44c9945d7d2d9c22
+  - Histogram density estimation：https://www.bilibili.com/video/BV1Ei4y1c7eJ/?spm_id_from=333.337.search-card.all.click&vd_source=f93a900f93f134bf44c9945d7d2d9c22
+  - Notes of Prof.Yan: Your canvas files
+
+
+
