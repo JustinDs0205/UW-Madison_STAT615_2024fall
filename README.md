@@ -22,5 +22,7 @@ Bilibili online course:
   - Histogram density estimation：https://www.bilibili.com/video/BV1Ei4y1c7eJ/?spm_id_from=333.337.search-card.all.click&vd_source=f93a900f93f134bf44c9945d7d2d9c22
   - Notes of Prof.Yan: Your canvas files
 
+### Tree model/adaboost/Blending and Bagging part:
+  - https://github.com/RedstoneWill/HsuanTienLin_MachineLearning (There are also videos in Bilibili)
 
-
+### To be continued...
