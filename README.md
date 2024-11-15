@@ -4,7 +4,7 @@
 #### Sharing the class-related online course and my written notes for this class, if you think this repository is helpful or you have any advise, please email me: zliu2276@wisc.edu/liiiujustin@gmail.com. Thank you!
 
 How to use this tutorial：
-  - Combine the online courses mentioned with Prof.Yan's course, and choose the parts which you think you need to reinforce or learn.
+  - Combine the online courses mentioned with Prof.Yan's course(https://yulingy.github.io/STAT615_Fall24.html), and choose the parts which you think you need to reinforce or learn.
   - The Notes document includes my own handwritten notes and some notes/slides from the online courses, if authors mind I will delete those asap.
 
 Bilibili online course:
