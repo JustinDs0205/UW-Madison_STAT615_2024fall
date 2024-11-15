@@ -13,6 +13,7 @@ Bilibili online course:
 
 ### Sub-Guassian and Inequality part:
   - https://www.bilibili.com/video/BV1xh411p7vF?spm_id_from=333.788.videopod.sections&vd_source=f93a900f93f134bf44c9945d7d2d9c22 (Section2.1-2.3)
+  - attached notebook is compiled by others, I sincerely show my thanks here.
 
 ### Optimazation part(selection,if you need to learn the basic and full theory of Basic knowledge of convex problems, common methods of unconstrained optimization, constrained optimization theory and solving methods):
   - https://www.bilibili.com/video/BV1m7411u72b/?spm_id_from=333.999.0.0&vd_source=f93a900f93f134bf44c9945d7d2d9c22
