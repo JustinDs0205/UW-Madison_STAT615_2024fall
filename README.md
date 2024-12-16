@@ -34,4 +34,11 @@ Bilibili online course:
   - https://www.bilibili.com/video/BV1Bg4y1i76R?spm_id_from=333.788.videopod.episodes&vd_source=f93a900f93f134bf44c9945d7d2d9c22&p=3
   - Because the author of this video has deleted slides before, email me if you need the slides of this courses plz.
 
+### Hilbert space / Real number completeness part:
+  - https://www.bilibili.com/video/BV1cV411T7hb/?spm_id_from=333.337.search-card.all.click&vd_source=f93a900f93f134bf44c9945d7d2d9c22
+
+### The reproducing kernel Hilbert space parts:
+  - https://www.bilibili.com/video/BV1ffYmeCEft?spm_id_from=333.788.videopod.sections&vd_source=f93a900f93f134bf44c9945d7d2d9c22
+  - https://www.bilibili.com/video/BV143execEQC?spm_id_from=333.788.player.switch&vd_source=f93a900f93f134bf44c9945d7d2d9c22
+
 ### To be continued...
