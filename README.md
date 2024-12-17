@@ -30,7 +30,7 @@ Bilibili online course:
 ### Tree model/adaboost/Blending and Bagging part:
   - https://github.com/RedstoneWill/HsuanTienLin_MachineLearning (There are also videos in Bilibili)
 
-### LASSO and RIDGE Regression theory parts:
+### LASSO and RIDGE Regression theory [basic] parts:
   - https://www.bilibili.com/video/BV1Bg4y1i76R?spm_id_from=333.788.videopod.episodes&vd_source=f93a900f93f134bf44c9945d7d2d9c22&p=3
   - Because the author of this video has deleted slides before, email me if you need the slides of this courses plz.
 
