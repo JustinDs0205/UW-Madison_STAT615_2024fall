@@ -41,4 +41,7 @@ Bilibili online course:
   - https://www.bilibili.com/video/BV1ffYmeCEft?spm_id_from=333.788.videopod.sections&vd_source=f93a900f93f134bf44c9945d7d2d9c22
   - https://www.bilibili.com/video/BV143execEQC?spm_id_from=333.788.player.switch&vd_source=f93a900f93f134bf44c9945d7d2d9c22
 
+### Mercer Theory part:
+  - https://www.bilibili.com/video/BV1Fw4m1q7Ns/?spm_id_from=333.337.search-card.all.click&vd_source=f93a900f93f134bf44c9945d7d2d9c22
+
 ### To be continued...
