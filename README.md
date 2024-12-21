@@ -39,7 +39,7 @@ Bilibili online course:
 ##### SVD method:(***)
   - https://zhuanlan.zhihu.com/p/29846048
 
-### LASSO with Proximal gradient method and Sub-gradient property:(***)(You can upload my notes to Chatgpt to get explianed help)
+### LASSO with Proximal gradient method and Sub-gradient property:(***)(You can upload my notes to Chatgpt to get help)
   - https://github.com/JustinDs0205/STAT615_2024fall
 
 ### Hilbert space / Real number completeness part:(***)
