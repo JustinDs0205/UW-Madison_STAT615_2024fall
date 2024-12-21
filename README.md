@@ -5,7 +5,7 @@
 
 How to use this tutorial：
   - Combine the online courses mentioned with Prof.Yan's course(https://yulingy.github.io/STAT615_Fall24.html), and choose the parts which you think you need to reinforce or learn.
-  - The number of（*) means the recommendation index, and (#) means this course is not as much helpful as the (*) courses for me. 
+  - The number of（ * ) means the recommendation index, and (#) means this course is not as much helpful as the (*) courses for me. 
   - The Notes document includes my own handwritten notes and some notes/slides from the online courses, if authors mind I will delete those asap.
   - I do not submit the materials of Professor Yan's Notes and Quizs, so if you have questions about the exams, just feel free to email me.
 
