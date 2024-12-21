@@ -40,7 +40,7 @@ Bilibili online course:
   - https://zhuanlan.zhihu.com/p/29846048
 
 ### LASSO with Proximal gradient method and Sub-gradient property:(***)(You can upload my notes to Chatgpt to get help)
-  - https://github.com/JustinDs0205/STAT615_2024fall
+  - [https://github.com/JustinDs0205/STAT615_2024fall](https://github.com/JustinDs0205/STAT615_2024fall/blob/main/Notes/LASSO%20notes.pdf)
 
 ### Hilbert space / Real number completeness part:(***)
   - https://www.bilibili.com/video/BV1cV411T7hb/?spm_id_from=333.337.search-card.all.click&vd_source=f93a900f93f134bf44c9945d7d2d9c22
