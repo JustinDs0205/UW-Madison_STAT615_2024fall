@@ -104,7 +104,7 @@ Bilibili online course:
 - 核密度估计：[https://www.bilibili.com/video/BV1ir4y1h7Pc](https://www.bilibili.com/video/BV1ir4y1h7Pc)  
 - 直方图估计：[https://www.bilibili.com/video/BV1Ei4y1c7eJ](https://www.bilibili.com/video/BV1Ei4y1c7eJ)
 
-#### 颜老师的笔记：请查看Canvas上的文件
+#### 老师的笔记：请查看Canvas上的文件
 
 #### 树模型 / AdaBoost / 集成方法部分（#）  
 [https://github.com/RedstoneWill/HsuanTienLin_MachineLearning](https://github.com/RedstoneWill/HsuanTienLin_MachineLearning)  
