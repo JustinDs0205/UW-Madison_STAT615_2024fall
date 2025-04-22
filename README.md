@@ -80,7 +80,7 @@ Bilibili online course:
 
 **Notes文档**包括我自己手写的笔记，以及部分来自网络课程的笔记/幻灯片，如果原作者介意，我会立刻删除。
 
-**我没有上传颜老师的Notes和Quiz的资料**，如果你对本篇的学习内容有任何疑问，欢迎随时发邮件联系我！
+**我没有上传Prof.Yan的Notes和Quiz的资料**，如果你对本篇的学习内容有任何疑问，欢迎随时发邮件联系我！
 
 ---
 
@@ -141,7 +141,7 @@ Bilibili online course:
 [https://www.bilibili.com/video/BV1aE411o7qd?p=66](https://www.bilibili.com/video/BV1aE411o7qd?p=66)
 
 #### 谱聚类方法：  
-请参考课堂笔记中的Slides和Examples。
+请参考Prof.Yan课堂笔记中的Slides和Examples。
 
 ---
 
